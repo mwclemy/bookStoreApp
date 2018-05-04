@@ -1,0 +1,27 @@
+eclipse
+sbt -run
+run
+@helper.inputText(bookForm("id"))
+run
+clean
+compile
+run
+update
+clear
+run
+compile
+run
+compile
+run
+compile
+run
+compile
+run
+root
+compile
+run
+compile
+run
+compile
+update
+run

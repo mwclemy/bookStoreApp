@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0mD:\Industry\Software\Projects\Personal Projects\Source Codes\WebApps\Java\tomcat_server\bookstoreapp\app\controllers\BooksController.java:56:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable id[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class controllers.BooksController[0m
+[0m[[0m[31merror[0m] [0m[0m		Book oldBook = book.find.byId(id);;[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Industry\Software\Projects\Personal Projects\Source Codes\WebApps\Java\tomcat_server\bookstoreapp\app\controllers\BooksController.java:72:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method remove()[0m
+[0m[[0m[31merror[0m] [0m[0m  location: variable book of type models.Book[0m
+[0m[[0m[31merror[0m] [0m[0m		book.remove();[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Industry\Software\Projects\Personal Projects\Source Codes\WebApps\Java\tomcat_server\bookstoreapp\app\models\Book.java:17:1: cannot infer type arguments for io.ebean.Finder<>[0m
+[0m[[0m[31merror[0m] [0m[0m	public static Finder<Integer, Book> find = new Finder<>();[0m
